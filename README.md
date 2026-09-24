@@ -1,6 +1,6 @@
 # 2026 Lange Symposium on Computational Statistics
 
-### <span style="color:red">For information on the next Lange Symposium, Feb 5, 2027 </span> [click here](https://langesymposium.github.io/Lange-Symposium/)
+### <span style="color:red">_For information on the next Lange Symposium,_</span> [click here](https://langesymposium.github.io/Lange-Symposium/)
 
 # 2026 Lange Symposium on Computational Statistics & Biomedical Data Science
 
